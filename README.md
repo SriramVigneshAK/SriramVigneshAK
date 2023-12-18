@@ -1,4 +1,8 @@
 ### Hi there 👋
+I am Sriram
+Chemistry Student at NISER
+Exploring the mysteries of atoms and molecules
+Contact @:srv5113@gmail.com
 
 <!--
 **SriramVigneshAK/SriramVigneshAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
